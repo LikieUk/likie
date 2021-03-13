@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<body style="background-color:darkred;">
+<iframe src="//funhtml5games.com?embed=legocraft" style="width:854px;height:480px;border:none;" frameborder="0" scrolling="no"></iframe>
+</body>
+</html>
