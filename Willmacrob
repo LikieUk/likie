@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QRN8GW7B29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QRN8GW7B29');
+</script>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Likie</title>
+	<link rel="icon" 
+      type="image/png" 
+      href="images/likiel.png">
+    <link rel="stylesheet" href="navbar.css">
+<style>
+		body {
+	 	 background-image: url('images/background.png');
+		}
+</style>
+	<script
+    src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+    crossorigin="anonymous"></script>
+    <script>
+    $(function() {
+    $(".toggle").on("click", function() {
+        if ($(".item").hasClass("active")) {
+            $(".item").removeClass("active");
+        } else {
+            $(".item").addClass("active");
+        }
+    });
+});
+    </script>
+</head>
+<body>
+    <nav>
+        <ul class="menu">
+			<p style="text-align:left;"><img src="images/likiel.png"102.4" height="57.6" alt="logo"></p>
+            <li class="item"><a href="index.html">Home</a></li>
+            <li class="item"><a href="studios.html">Studios</a></li>
+            <li class="item"><a href="updates.html">Updates</a></li>
+            </li>
+            <li class="item button"><a href="https://likie.statuspage.io"">Status</a></li>
+            <li class="toggle"><span class="bars"></span></li>
+        </ul>
+    </nav>
+    </main>
+</style>      
+ <p style="text-align:center;"><img src="images/ztvg2.png" width="290" height="290" alt="Sorry, our services are currently down"></p>   
+</head>
+<body>
+
+
+<script async src="https://cse.google.com/cse.js?cx=d9036f4fcae89102b"></script>
+<div class="gcse-search"></div>
+ <p>
+         <a href="https://www.youtube.com/channel/UCnx7NelvI1iLNvOjGtugdvA">YT channel</a>
+      </p>	 
+</head>
+  
+	
+</script>
+</body>
+</html>
